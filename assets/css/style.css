@@ -1,0 +1,100 @@
+.title{
+
+    margin: auto;
+    border: 5px solid orange;
+    width: 250px;
+    background-color:orange;
+}
+
+.instructions{
+
+    border: 5px solid orangered;
+    width: 450px;
+    height: 400px; 
+    color: white;
+    font-size: 20px;
+    background-color: orangered;
+    margin-top: 150px;
+    float:left;
+}
+
+#random-number{
+
+    border: 5px solid green;
+    width: 250px;
+    height: 120px;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    background-color: green;
+    float:left;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+.wins-losses{
+
+    border: 5px solid blue;
+    width: 150px;
+    height: 150px;
+    color: white;
+    font-size: 20px;
+    background-color: blue;
+    float:left;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+
+.crystals {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    top: 370px;
+    right: 180px;
+
+}
+
+
+.crystal{
+
+    border:1px solid green;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+     
+    }
+    
+
+#score-decleration{
+
+    border: 5px solid red;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    background-color: red;
+    width: 250px;
+    height: 45px;
+    clear:left;
+    position:relative;
+    left: 510px;
+    bottom: 250px;
+
+}
+
+#total-score{
+
+    border: 5px solid red;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    background-color: red;
+    width: 250px;
+    height: 120px;
+    clear:left;
+    position:relative;
+    left: 510px;
+    bottom: 245px;
+}
